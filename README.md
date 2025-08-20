@@ -32,5 +32,14 @@ This repository contains a Python script that implements a discount calculation 
     ```bash
     python discount_calculator.py
     ```
+Enter the original price of the item: 100
+Enter the discount percentage (e.g., 15, 25): 25
+Original Price: $100.00
+Discount Applied: 25.00%
+Final Price after discount: $75.00
 
-### **Example Usage**
+Enter the original price of the item: 50
+Enter the discount percentage (e.g., 15, 25): 10
+Original Price: $50.00
+Discount Percentage: 10.00% (No discount applied as it's less than 20%)
+Final Price: $50.00
